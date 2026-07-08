@@ -1,0 +1,42 @@
+train_defaults:
+  batch_size: 128
+  epochs: 200
+  learning_rate: 0.01
+  decay_rate: 0.9
+  seed: 2
+  validation_fraction: 0.18
+  test_fraction: 0.10
+
+cases:
+  case_i:
+    name: GNSS_M3S_181
+    nst: 3
+    nt: 181
+    nc: 3
+    x_path: data/GNSS_M3S_181/xdata.npy
+    y_path: data/GNSS_M3S_181/ydata.npy
+    output_dir: reports/case_i
+  case_ii:
+    name: GNSS_M7S_181
+    nst: 7
+    nt: 181
+    nc: 3
+    x_path: data/GNSS_M7S_181/xdata.npy
+    y_path: data/GNSS_M7S_181/ydata.npy
+    output_dir: reports/case_ii
+  case_iii:
+    name: GNSS_M7S_501
+    nst: 7
+    nt: 501
+    nc: 3
+    x_path: data/GNSS_M7S_501/xdata.npy
+    y_path: data/GNSS_M7S_501/ydata.npy
+    output_dir: reports/case_iii
+
+evaluation:
+  real_events_root: data/real_events
+  max_combinations: 500
+  max_radius_deg: null
+  normalize: per_station_maxabs
+  seed: 42
+  batch_size: 128

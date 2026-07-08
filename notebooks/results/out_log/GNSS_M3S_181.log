@@ -1,0 +1,567 @@
+21:15:49 [INFO] root: Train & Validation data 90.0%:
+21:15:49 [INFO] root: x_train: (360, 3, 181, 3)
+21:15:49 [INFO] root: y_train: (360,)
+21:15:49 [INFO] root: x_val: (90, 3, 181, 3)
+21:15:49 [INFO] root: y_val: (90,)
+21:15:49 [INFO] root: Test_data10.0%:
+21:15:49 [INFO] root: x_test: (50, 3, 181, 3)
+21:15:49 [INFO] root: y_test: (50,)
+
+21:15:49 [INFO] root: Total epochs = 200
+21:15:49 [INFO] root: Batch size = 128
+21:16:43 [INFO] root: Train & Validation data 90.0%:
+21:16:43 [INFO] root: x_train: (360, 3, 181, 3)
+21:16:43 [INFO] root: y_train: (360,)
+21:16:43 [INFO] root: x_val: (90, 3, 181, 3)
+21:16:43 [INFO] root: y_val: (90,)
+21:16:43 [INFO] root: Test_data10.0%:
+21:16:43 [INFO] root: x_test: (50, 3, 181, 3)
+21:16:43 [INFO] root: y_test: (50,)
+
+21:16:43 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+21:16:43 [INFO] root: Total epochs = 200
+21:16:43 [INFO] root: Batch size = 128
+21:17:05 [INFO] root: Train & Validation data 90.0%:
+21:17:05 [INFO] root: x_train: (360, 3, 181, 3)
+21:17:05 [INFO] root: y_train: (360,)
+21:17:05 [INFO] root: x_val: (90, 3, 181, 3)
+21:17:05 [INFO] root: y_val: (90,)
+21:17:05 [INFO] root: Test_data10.0%:
+21:17:05 [INFO] root: x_test: (50, 3, 181, 3)
+21:17:05 [INFO] root: y_test: (50,)
+
+21:17:05 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+21:17:05 [INFO] root: Total epochs = 200
+21:17:05 [INFO] root: Batch size = 128
+21:17:41 [INFO] root: Train & Validation data 90.0%:
+21:17:41 [INFO] root: x_train: (360, 3, 181, 3)
+21:17:41 [INFO] root: y_train: (360,)
+21:17:41 [INFO] root: x_val: (90, 3, 181, 3)
+21:17:41 [INFO] root: y_val: (90,)
+21:17:41 [INFO] root: Test_data10.0%:
+21:17:41 [INFO] root: x_test: (50, 3, 181, 3)
+21:17:41 [INFO] root: y_test: (50,)
+
+21:17:41 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+21:17:41 [INFO] root: Total epochs = 200
+21:17:41 [INFO] root: Batch size = 128
+21:17:41 [INFO] root: 
+ Using 'standard' learning rate decay...
+21:17:41 [INFO] root: initial learning rate: 0.0100
+21:17:58 [INFO] root: Train & Validation data 90.0%:
+21:17:58 [INFO] root: x_train: (360, 3, 181, 3)
+21:17:58 [INFO] root: y_train: (360,)
+21:17:58 [INFO] root: x_val: (90, 3, 181, 3)
+21:17:58 [INFO] root: y_val: (90,)
+21:17:58 [INFO] root: Test_data10.0%:
+21:17:58 [INFO] root: x_test: (50, 3, 181, 3)
+21:17:58 [INFO] root: y_test: (50,)
+
+21:17:58 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+21:17:58 [INFO] root: Total epochs = 200
+21:17:58 [INFO] root: Batch size = 128
+21:17:59 [INFO] root: 
+ Using 'standard' learning rate decay...
+21:17:59 [INFO] root: initial learning rate: 0.0100
+21:19:36 [INFO] root: Train & Validation data 90.0%:
+21:19:36 [INFO] root: x_train: (360, 3, 181, 3)
+21:19:36 [INFO] root: y_train: (360,)
+21:19:36 [INFO] root: x_val: (90, 3, 181, 3)
+21:19:36 [INFO] root: y_val: (90,)
+21:19:36 [INFO] root: Test_data10.0%:
+21:19:36 [INFO] root: x_test: (50, 3, 181, 3)
+21:19:36 [INFO] root: y_test: (50,)
+
+21:19:36 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+21:19:36 [INFO] root: Total epochs = 200
+21:19:36 [INFO] root: Batch size = 128
+21:19:37 [INFO] root: 
+ Using 'standard' learning rate decay...
+21:19:37 [INFO] root: initial learning rate: 0.0100
+21:19:37 [WARNING] tensorflow: TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+21:19:46 [DEBUG] h5py._conv: Creating converter from 5 to 3
+21:20:25 [INFO] root: 
+Validation:
+21:20:25 [INFO] root: loss: 0.23670
+21:20:25 [INFO] root: mae: 0.43043
+21:20:25 [INFO] root: lr: 0.01000
+21:20:26 [INFO] root: History attributes:
+21:20:26 [INFO] root: dict_keys(['loss', 'lr', 'mae', 'val_loss', 'val_lr', 'val_mae'])
+21:20:28 [INFO] root: 
+Prediction report:
+21:20:28 [INFO] root: Mean Absolute Error:      0.400
+21:20:28 [INFO] root: Min Absolute Error:      0.000
+21:20:28 [INFO] root: Max Absolute Error:      0.800
+21:20:28 [INFO] root: Std Dev:      0.451
+21:20:28 [INFO] root: Mode Absolute Error:      0.400
+21:20:28 [INFO] root: RMSE:      0.453
+21:20:28 [INFO] root: Finished *********************************************************************
+21:23:09 [INFO] root: Train & Validation data 90.0%:
+21:23:09 [INFO] root: x_train: (360, 3, 181, 3)
+21:23:09 [INFO] root: y_train: (360,)
+21:23:09 [INFO] root: x_val: (90, 3, 181, 3)
+21:23:09 [INFO] root: y_val: (90,)
+21:23:09 [INFO] root: Test_data10.0%:
+21:23:09 [INFO] root: x_test: (50, 3, 181, 3)
+21:23:09 [INFO] root: y_test: (50,)
+
+21:23:09 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+21:23:09 [INFO] root: Total epochs = 200
+21:23:09 [INFO] root: Batch size = 128
+21:23:10 [INFO] root: 
+ Using 'standard' learning rate decay...
+21:23:10 [INFO] root: initial learning rate: 0.0100
+21:24:22 [INFO] root: 
+Validation:
+21:24:22 [INFO] root: loss: 0.23667
+21:24:22 [INFO] root: mae: 0.43042
+21:24:22 [INFO] root: lr: 0.01000
+21:24:23 [INFO] root: History attributes:
+21:24:23 [INFO] root: dict_keys(['loss', 'lr', 'mae', 'val_loss', 'val_lr', 'val_mae'])
+21:24:25 [INFO] root: 
+Prediction report:
+21:24:25 [INFO] root: Mean Absolute Error:      0.400
+21:24:25 [INFO] root: Min Absolute Error:      0.000
+21:24:25 [INFO] root: Max Absolute Error:      0.800
+21:24:25 [INFO] root: Std Dev:      0.451
+21:24:25 [INFO] root: Mode Absolute Error:      0.400
+21:24:25 [INFO] root: RMSE:      0.453
+21:24:25 [WARNING] root: The folder ./results/predictions_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+21:24:25 [INFO] root: Finished *********************************************************************
+22:16:06 [INFO] root: Train & Validation data 90.0%:
+22:16:06 [INFO] root: x_train: (360, 3, 181, 3)
+22:16:06 [INFO] root: y_train: (360,)
+22:16:06 [INFO] root: x_val: (90, 3, 181, 3)
+22:16:06 [INFO] root: y_val: (90,)
+22:16:06 [INFO] root: Test_data10.0%:
+22:16:06 [INFO] root: x_test: (50, 3, 181, 3)
+22:16:06 [INFO] root: y_test: (50,)
+
+22:16:06 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+22:16:06 [INFO] root: Total epochs = 200
+22:16:06 [INFO] root: Batch size = 128
+22:16:06 [INFO] root: 
+ Using 'standard' learning rate decay...
+22:16:06 [INFO] root: initial learning rate: 0.0100
+22:16:17 [INFO] root: 
+Validation:
+22:16:17 [INFO] root: loss: 61.81520
+22:16:17 [INFO] root: mae: 7.84578
+22:16:17 [INFO] root: lr: 0.01000
+22:16:18 [INFO] root: History attributes:
+22:16:18 [INFO] root: dict_keys(['loss', 'lr', 'mae', 'val_loss', 'val_lr', 'val_mae'])
+22:16:19 [WARNING] tensorflow: 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000001C7B77B6F20> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+22:16:19 [WARNING] tensorflow: 6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000001C7B77B6F20> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+22:16:19 [INFO] root: 
+Prediction report:
+22:16:19 [INFO] root: Mean Absolute Error:      7.048
+22:16:19 [INFO] root: Min Absolute Error:      6.200
+22:16:19 [INFO] root: Max Absolute Error:      7.700
+22:16:19 [INFO] root: Std Dev:      0.451
+22:16:19 [INFO] root: Mode Absolute Error:      7.600
+22:16:19 [INFO] root: RMSE:      7.062
+22:16:19 [WARNING] root: The folder ./results/predictions_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+22:16:19 [INFO] root: Finished *********************************************************************
+22:17:47 [INFO] root: Train & Validation data 90.0%:
+22:17:47 [INFO] root: x_train: (360, 3, 181, 3)
+22:17:47 [INFO] root: y_train: (360,)
+22:17:47 [INFO] root: x_val: (90, 3, 181, 3)
+22:17:47 [INFO] root: y_val: (90,)
+22:17:47 [INFO] root: Test_data10.0%:
+22:17:47 [INFO] root: x_test: (50, 3, 181, 3)
+22:17:47 [INFO] root: y_test: (50,)
+
+22:17:47 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+22:17:47 [INFO] root: Total epochs = 200
+22:17:47 [INFO] root: Batch size = 128
+22:17:49 [INFO] root: 
+ Using 'standard' learning rate decay...
+22:17:49 [INFO] root: initial learning rate: 0.0100
+22:19:05 [INFO] root: 
+Validation:
+22:19:05 [INFO] root: loss: 0.23672
+22:19:05 [INFO] root: mae: 0.43044
+22:19:05 [INFO] root: lr: 0.01000
+22:19:06 [INFO] root: History attributes:
+22:19:06 [INFO] root: dict_keys(['loss', 'lr', 'mae', 'val_loss', 'val_lr', 'val_mae'])
+22:19:08 [INFO] root: 
+Prediction report:
+22:19:08 [INFO] root: Mean Absolute Error:      0.400
+22:19:08 [INFO] root: Min Absolute Error:      0.000
+22:19:08 [INFO] root: Max Absolute Error:      0.800
+22:19:08 [INFO] root: Std Dev:      0.451
+22:19:08 [INFO] root: Mode Absolute Error:      0.400
+22:19:08 [INFO] root: RMSE:      0.453
+22:19:08 [WARNING] root: The folder ./results/predictions_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+22:19:08 [INFO] root: Finished *********************************************************************
+22:21:11 [INFO] root: Train & Validation data 90.0%:
+22:21:11 [INFO] root: x_train: (360, 3, 181, 3)
+22:21:11 [INFO] root: y_train: (360,)
+22:21:11 [INFO] root: x_val: (90, 3, 181, 3)
+22:21:11 [INFO] root: y_val: (90,)
+22:21:11 [INFO] root: Test_data10.0%:
+22:21:11 [INFO] root: x_test: (50, 3, 181, 3)
+22:21:11 [INFO] root: y_test: (50,)
+
+22:21:11 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+22:21:11 [INFO] root: Total epochs = 200
+22:21:11 [INFO] root: Batch size = 128
+22:21:11 [INFO] root: 
+ Using 'standard' learning rate decay...
+22:21:11 [INFO] root: initial learning rate: 0.0100
+22:21:42 [INFO] root: Train & Validation data 90.0%:
+22:21:42 [INFO] root: x_train: (360, 3, 181, 3)
+22:21:42 [INFO] root: y_train: (360,)
+22:21:42 [INFO] root: x_val: (90, 3, 181, 3)
+22:21:42 [INFO] root: y_val: (90,)
+22:21:42 [INFO] root: Test_data10.0%:
+22:21:42 [INFO] root: x_test: (50, 3, 181, 3)
+22:21:42 [INFO] root: y_test: (50,)
+
+22:21:42 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+22:21:42 [INFO] root: Total epochs = 200
+22:21:42 [INFO] root: Batch size = 128
+22:21:42 [INFO] root: 
+ Using 'standard' learning rate decay...
+22:21:42 [INFO] root: initial learning rate: 0.0100
+22:24:38 [INFO] root: 
+Validation:
+22:24:38 [INFO] root: loss: 0.23843
+22:24:38 [INFO] root: mae: 0.43095
+22:24:38 [INFO] root: lr: 0.01000
+22:24:39 [INFO] root: History attributes:
+22:24:39 [INFO] root: dict_keys(['loss', 'lr', 'mae', 'val_loss', 'val_lr', 'val_mae'])
+22:24:40 [INFO] root: 
+Prediction report:
+22:24:40 [INFO] root: Mean Absolute Error:      0.400
+22:24:40 [INFO] root: Min Absolute Error:      0.000
+22:24:40 [INFO] root: Max Absolute Error:      0.800
+22:24:40 [INFO] root: Std Dev:      0.451
+22:24:40 [INFO] root: Mode Absolute Error:      0.400
+22:24:40 [INFO] root: RMSE:      0.453
+22:24:40 [WARNING] root: The folder ./results/predictions_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+22:24:40 [INFO] root: Finished *********************************************************************
+22:34:50 [INFO] root: Train & Validation data 90.0%:
+22:34:50 [INFO] root: x_train: (360, 3, 181, 3)
+22:34:50 [INFO] root: y_train: (360,)
+22:34:50 [INFO] root: x_val: (90, 3, 181, 3)
+22:34:50 [INFO] root: y_val: (90,)
+22:34:50 [INFO] root: Test_data10.0%:
+22:34:50 [INFO] root: x_test: (50, 3, 181, 3)
+22:34:50 [INFO] root: y_test: (50,)
+
+22:34:50 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+22:34:50 [INFO] root: Total epochs = 200
+22:34:50 [INFO] root: Batch size = 128
+22:34:51 [INFO] root: 
+ Using 'standard' learning rate decay...
+22:34:51 [INFO] root: initial learning rate: 0.0100
+22:37:55 [INFO] root: 
+Validation:
+22:37:55 [INFO] root: loss: 0.23669
+22:37:55 [INFO] root: mae: 0.43042
+22:37:55 [INFO] root: lr: 0.00206
+22:37:56 [INFO] root: History attributes:
+22:37:56 [INFO] root: dict_keys(['loss', 'lr', 'mae', 'val_loss', 'val_lr', 'val_mae'])
+22:37:58 [INFO] root: 
+Prediction report:
+22:37:58 [INFO] root: Mean Absolute Error:      0.400
+22:37:58 [INFO] root: Min Absolute Error:      0.000
+22:37:58 [INFO] root: Max Absolute Error:      0.800
+22:37:58 [INFO] root: Std Dev:      0.451
+22:37:58 [INFO] root: Mode Absolute Error:      0.400
+22:37:58 [INFO] root: RMSE:      0.453
+22:37:58 [WARNING] root: The folder ./results/predictions_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+22:37:58 [INFO] root: Finished *********************************************************************
+10:24:37 [INFO] root: Train & Validation data 90.0%:
+10:24:37 [INFO] root: x_train: (360, 3, 181, 3)
+10:24:37 [INFO] root: y_train: (360,)
+10:24:37 [INFO] root: x_val: (90, 3, 181, 3)
+10:24:37 [INFO] root: y_val: (90,)
+10:24:37 [INFO] root: Test_data10.0%:
+10:24:37 [INFO] root: x_test: (50, 3, 181, 3)
+10:24:37 [INFO] root: y_test: (50,)
+
+10:24:37 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+10:24:37 [INFO] root: Total epochs = 200
+10:24:37 [INFO] root: Batch size = 128
+10:24:37 [INFO] root: 
+ Using 'standard' learning rate decay...
+10:24:37 [INFO] root: initial learning rate: 0.0010
+10:24:37 [WARNING] tensorflow: TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+10:24:43 [DEBUG] h5py._conv: Creating converter from 5 to 3
+10:26:22 [INFO] root: 
+Validation:
+10:26:22 [INFO] root: loss: 0.30104
+10:26:22 [INFO] root: mae: 0.46031
+10:26:22 [INFO] root: lr: 0.00095
+10:26:22 [INFO] root: History attributes:
+10:26:22 [INFO] root: dict_keys(['loss', 'lr', 'mae', 'val_loss', 'val_lr', 'val_mae'])
+10:26:23 [INFO] root: 
+Prediction report:
+10:26:23 [INFO] root: Mean Absolute Error:      0.408
+10:26:23 [INFO] root: Min Absolute Error:      0.000
+10:26:23 [INFO] root: Max Absolute Error:      0.800
+10:26:23 [INFO] root: Std Dev:      0.455
+10:26:23 [INFO] root: Mode Absolute Error:      0.400
+10:26:23 [INFO] root: RMSE:      0.462
+10:26:23 [WARNING] root: The folder ./results/predictions_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+10:26:23 [INFO] root: Finished *********************************************************************
+10:36:01 [INFO] root: Train & Validation data 90.0%:
+10:36:01 [INFO] root: x_train: (360, 3, 181, 3)
+10:36:01 [INFO] root: y_train: (360,)
+10:36:01 [INFO] root: x_val: (90, 3, 181, 3)
+10:36:01 [INFO] root: y_val: (90,)
+10:36:01 [INFO] root: Test_data10.0%:
+10:36:01 [INFO] root: x_test: (50, 3, 181, 3)
+10:36:01 [INFO] root: y_test: (50,)
+
+10:36:01 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+10:36:01 [INFO] root: Total epochs = 200
+10:36:01 [INFO] root: Batch size = 32
+10:36:01 [INFO] root: 
+ Using 'standard' learning rate decay...
+10:36:01 [INFO] root: initial learning rate: 0.0010
+10:38:26 [INFO] root: 
+Validation:
+10:38:26 [INFO] root: loss: 0.36831
+10:38:26 [INFO] root: mae: 0.51947
+10:38:26 [INFO] root: lr: 0.00081
+10:38:27 [INFO] root: History attributes:
+10:38:27 [INFO] root: dict_keys(['loss', 'lr', 'mae', 'val_loss', 'val_lr', 'val_mae'])
+10:38:27 [INFO] root: 
+Prediction report:
+10:38:27 [INFO] root: Mean Absolute Error:      0.390
+10:38:27 [INFO] root: Min Absolute Error:      0.000
+10:38:27 [INFO] root: Max Absolute Error:      0.800
+10:38:27 [INFO] root: Std Dev:      0.448
+10:38:27 [INFO] root: Mode Absolute Error:      0.400
+10:38:27 [INFO] root: RMSE:      0.449
+10:38:27 [WARNING] root: The folder ./results/predictions_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+10:38:27 [INFO] root: Finished *********************************************************************
+10:45:59 [INFO] root: Train & Validation data 90.0%:
+10:45:59 [INFO] root: x_train: (360, 3, 181, 3)
+10:45:59 [INFO] root: y_train: (360,)
+10:45:59 [INFO] root: x_val: (90, 3, 181, 3)
+10:45:59 [INFO] root: y_val: (90,)
+10:45:59 [INFO] root: Test_data10.0%:
+10:45:59 [INFO] root: x_test: (50, 3, 181, 3)
+10:45:59 [INFO] root: y_test: (50,)
+
+10:45:59 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+10:45:59 [INFO] root: Total epochs = 200
+10:45:59 [INFO] root: Batch size = 64
+10:45:59 [INFO] root: 
+ Using 'standard' learning rate decay...
+10:45:59 [INFO] root: initial learning rate: 0.0100
+10:48:04 [INFO] root: 
+Validation:
+10:48:04 [INFO] root: loss: 0.23743
+10:48:04 [INFO] root: mae: 0.43282
+10:48:04 [INFO] root: lr: 0.00900
+10:48:04 [INFO] root: History attributes:
+10:48:04 [INFO] root: dict_keys(['loss', 'lr', 'mae', 'val_loss', 'val_lr', 'val_mae'])
+10:48:05 [WARNING] tensorflow: 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000001CAACE03E20> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+10:48:05 [WARNING] tensorflow: 6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000001CAACE03E20> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+10:48:05 [INFO] root: 
+Prediction report:
+10:48:05 [INFO] root: Mean Absolute Error:      0.400
+10:48:05 [INFO] root: Min Absolute Error:      0.000
+10:48:05 [INFO] root: Max Absolute Error:      0.800
+10:48:05 [INFO] root: Std Dev:      0.451
+10:48:05 [INFO] root: Mode Absolute Error:      0.400
+10:48:05 [INFO] root: RMSE:      0.453
+10:48:05 [WARNING] root: The folder ./results/predictions_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+10:48:05 [INFO] root: Finished *********************************************************************
+10:50:19 [INFO] root: Train & Validation data 90.0%:
+10:50:19 [INFO] root: x_train: (360, 3, 181, 3)
+10:50:19 [INFO] root: y_train: (360,)
+10:50:19 [INFO] root: x_val: (90, 3, 181, 3)
+10:50:19 [INFO] root: y_val: (90,)
+10:50:19 [INFO] root: Test_data10.0%:
+10:50:19 [INFO] root: x_test: (50, 3, 181, 3)
+10:50:19 [INFO] root: y_test: (50,)
+
+10:50:19 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+10:50:19 [INFO] root: Total epochs = 200
+10:50:19 [INFO] root: Batch size = 64
+10:50:19 [INFO] root: 
+ Using 'standard' learning rate decay...
+10:50:19 [INFO] root: initial learning rate: 0.0010
+10:51:50 [INFO] root: 
+Validation:
+10:51:50 [INFO] root: loss: 0.29706
+10:51:50 [INFO] root: mae: 0.46774
+10:51:50 [INFO] root: lr: 0.00081
+10:51:51 [INFO] root: History attributes:
+10:51:51 [INFO] root: dict_keys(['loss', 'lr', 'mae', 'val_loss', 'val_lr', 'val_mae'])
+10:51:51 [INFO] root: 
+Prediction report:
+10:51:51 [INFO] root: Mean Absolute Error:      0.418
+10:51:51 [INFO] root: Min Absolute Error:      0.000
+10:51:51 [INFO] root: Max Absolute Error:      1.000
+10:51:51 [INFO] root: Std Dev:      0.467
+10:51:51 [INFO] root: Mode Absolute Error:      0.500
+10:51:51 [INFO] root: RMSE:      0.485
+10:51:51 [WARNING] root: The folder ./results/predictions_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+10:51:51 [INFO] root: Finished *********************************************************************
+10:53:38 [INFO] root: Train & Validation data 90.0%:
+10:53:38 [INFO] root: x_train: (360, 3, 181, 3)
+10:53:38 [INFO] root: y_train: (360,)
+10:53:38 [INFO] root: x_val: (90, 3, 181, 3)
+10:53:38 [INFO] root: y_val: (90,)
+10:53:38 [INFO] root: Test_data10.0%:
+10:53:38 [INFO] root: x_test: (50, 3, 181, 3)
+10:53:38 [INFO] root: y_test: (50,)
+
+10:53:38 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+10:53:38 [INFO] root: Total epochs = 200
+10:53:38 [INFO] root: Batch size = 32
+10:53:38 [INFO] root: 
+ Using 'standard' learning rate decay...
+10:53:38 [INFO] root: initial learning rate: 0.0010
+10:55:38 [INFO] root: 
+Validation:
+10:55:38 [INFO] root: loss: 3.45773
+10:55:38 [INFO] root: mae: 1.74637
+10:55:38 [INFO] root: lr: 0.00081
+10:55:38 [INFO] root: History attributes:
+10:55:38 [INFO] root: dict_keys(['loss', 'lr', 'mae', 'val_loss', 'val_lr', 'val_mae'])
+10:55:38 [INFO] root: 
+Prediction report:
+10:55:38 [INFO] root: Mean Absolute Error:      0.394
+10:55:38 [INFO] root: Min Absolute Error:      0.000
+10:55:38 [INFO] root: Max Absolute Error:      0.800
+10:55:38 [INFO] root: Std Dev:      0.444
+10:55:38 [INFO] root: Mode Absolute Error:      0.400
+10:55:38 [INFO] root: RMSE:      0.447
+10:55:38 [WARNING] root: The folder ./results/predictions_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+10:55:38 [INFO] root: Finished *********************************************************************
+11:09:08 [INFO] root: Train & Validation data 90.0%:
+11:09:08 [INFO] root: x_train: (360, 3, 181, 3)
+11:09:08 [INFO] root: y_train: (360,)
+11:09:08 [INFO] root: x_val: (90, 3, 181, 3)
+11:09:08 [INFO] root: y_val: (90,)
+11:09:08 [INFO] root: Test_data10.0%:
+11:09:08 [INFO] root: x_test: (50, 3, 181, 3)
+11:09:08 [INFO] root: y_test: (50,)
+
+11:09:08 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+11:09:08 [INFO] root: Total epochs = 200
+11:09:08 [INFO] root: Batch size = 32
+11:09:09 [INFO] root: 
+ Using 'standard' learning rate decay...
+11:09:09 [INFO] root: initial learning rate: 0.0010
+11:10:08 [INFO] root: 
+Validation:
+11:10:08 [INFO] root: loss: 5.09302
+11:10:08 [INFO] root: mae: 2.17750
+11:10:08 [INFO] root: lr: 0.00081
+11:10:08 [INFO] root: History attributes:
+11:10:08 [INFO] root: dict_keys(['loss', 'lr', 'mae', 'val_loss', 'val_lr', 'val_mae'])
+11:10:09 [INFO] root: 
+Prediction report:
+11:10:09 [INFO] root: Mean Absolute Error:      1.666
+11:10:09 [INFO] root: Min Absolute Error:      0.100
+11:10:09 [INFO] root: Max Absolute Error:      2.900
+11:10:09 [INFO] root: Std Dev:      0.664
+11:10:09 [INFO] root: Mode Absolute Error:      1.200
+11:10:09 [INFO] root: RMSE:      1.790
+11:10:09 [WARNING] root: The folder ./results/predictions_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+11:10:09 [INFO] root: Finished *********************************************************************
+11:14:45 [INFO] root: Train & Validation data 90.0%:
+11:14:45 [INFO] root: x_train: (360, 3, 181, 3)
+11:14:45 [INFO] root: y_train: (360,)
+11:14:45 [INFO] root: x_val: (90, 3, 181, 3)
+11:14:45 [INFO] root: y_val: (90,)
+11:14:45 [INFO] root: Test_data10.0%:
+11:14:45 [INFO] root: x_test: (50, 3, 181, 3)
+11:14:45 [INFO] root: y_test: (50,)
+
+11:14:45 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+11:14:45 [INFO] root: Total epochs = 200
+11:14:45 [INFO] root: Batch size = 32
+11:14:46 [INFO] root: 
+ Using 'standard' learning rate decay...
+11:14:46 [INFO] root: initial learning rate: 0.0010
+11:15:35 [INFO] root: 
+Validation:
+11:15:35 [INFO] root: loss: 4.91201
+11:15:35 [INFO] root: mae: 2.13163
+11:15:35 [INFO] root: lr: 0.00081
+11:15:35 [INFO] root: History attributes:
+11:15:35 [INFO] root: dict_keys(['loss', 'lr', 'mae', 'val_loss', 'val_lr', 'val_mae'])
+11:15:35 [INFO] root: 
+Prediction report:
+11:15:35 [INFO] root: Mean Absolute Error:      1.360
+11:15:35 [INFO] root: Min Absolute Error:      0.100
+11:15:35 [INFO] root: Max Absolute Error:      2.800
+11:15:35 [INFO] root: Std Dev:      0.704
+11:15:35 [INFO] root: Mode Absolute Error:      1.700
+11:15:35 [INFO] root: RMSE:      1.503
+11:15:35 [WARNING] root: The folder ./results/predictions_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+11:15:35 [INFO] root: Finished *********************************************************************
+11:30:41 [INFO] root: Train & Validation data 90.0%:
+11:30:41 [INFO] root: x_train: (360, 3, 181, 3)
+11:30:41 [INFO] root: y_train: (360,)
+11:30:41 [INFO] root: x_val: (90, 3, 181, 3)
+11:30:41 [INFO] root: y_val: (90,)
+11:30:41 [INFO] root: Test_data10.0%:
+11:30:41 [INFO] root: x_test: (50, 3, 181, 3)
+11:30:41 [INFO] root: y_test: (50,)
+
+11:30:41 [WARNING] root: The folder ./results/models_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+11:30:41 [INFO] root: Total epochs = 200
+11:30:41 [INFO] root: Batch size = 32
+11:30:42 [INFO] root: 
+ Using 'standard' learning rate decay...
+11:30:42 [INFO] root: initial learning rate: 0.0010
+11:33:03 [INFO] root: 
+Validation:
+11:33:03 [INFO] root: loss: 0.43294
+11:33:03 [INFO] root: mae: 0.53819
+11:33:03 [INFO] root: lr: 0.00081
+11:33:03 [INFO] root: History attributes:
+11:33:03 [INFO] root: dict_keys(['loss', 'lr', 'mae', 'val_loss', 'val_lr', 'val_mae'])
+11:33:04 [INFO] root: 
+Prediction report:
+11:33:04 [INFO] root: Mean Absolute Error:      0.396
+11:33:04 [INFO] root: Min Absolute Error:      0.000
+11:33:04 [INFO] root: Max Absolute Error:      0.900
+11:33:04 [INFO] root: Std Dev:      0.457
+11:33:04 [INFO] root: Mode Absolute Error:      0.400
+11:33:04 [INFO] root: RMSE:      0.459
+11:33:04 [WARNING] root: The folder ./results/predictions_1/GNSS_M3S_181 already exist! It will be removed and made again.
+
+11:33:04 [INFO] root: Finished *********************************************************************

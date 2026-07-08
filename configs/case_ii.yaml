@@ -1,0 +1,9 @@
+name: case_ii
+nst: 7
+nt: 181
+nc: 3
+batch_size: 128
+epochs: 200
+learning_rate: 0.01
+decay_rate: 0.9
+seed: 2

@@ -1,0 +1,37 @@
+stages:
+  train_case_i:
+    cmd: python scripts/train_model.py --x-path data/GNSS_M3S_181/xdata.npy --y-path data/GNSS_M3S_181/ydata.npy --nst 3 --nt 181 --output-dir reports/case_i
+    deps:
+      - scripts/train_model.py
+      - src
+      - data/GNSS_M3S_181/xdata.npy
+      - data/GNSS_M3S_181/ydata.npy
+    params:
+      - train_defaults
+      - cases.case_i
+    outs:
+      - reports/case_i
+  train_case_ii:
+    cmd: python scripts/train_model.py --x-path data/GNSS_M7S_181/xdata.npy --y-path data/GNSS_M7S_181/ydata.npy --nst 7 --nt 181 --output-dir reports/case_ii
+    deps:
+      - scripts/train_model.py
+      - src
+      - data/GNSS_M7S_181/xdata.npy
+      - data/GNSS_M7S_181/ydata.npy
+    params:
+      - train_defaults
+      - cases.case_ii
+    outs:
+      - reports/case_ii
+  train_case_iii:
+    cmd: python scripts/train_model.py --x-path data/GNSS_M7S_501/xdata.npy --y-path data/GNSS_M7S_501/ydata.npy --nst 7 --nt 501 --output-dir reports/case_iii
+    deps:
+      - scripts/train_model.py
+      - src
+      - data/GNSS_M7S_501/xdata.npy
+      - data/GNSS_M7S_501/ydata.npy
+    params:
+      - train_defaults
+      - cases.case_iii
+    outs:
+      - reports/case_iii
