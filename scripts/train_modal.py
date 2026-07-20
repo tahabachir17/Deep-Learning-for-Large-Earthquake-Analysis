@@ -183,7 +183,8 @@ def main():
 
     nst, nt  = 7, 501                          # ← change here if needed
     case_nm  = f"GNSS_M{nst}S_{nt}"
-    local_data = pathlib.Path(f"data/processed/tensors/{case_nm}")
+    project_root = pathlib.Path(__file__).resolve().parents[1]
+    local_data = project_root / f"data/processed/tensors/{case_nm}"
 
     # Step 1: upload .npy files to volume
     print(f"Uploading {case_nm} data to Modal volume...")
@@ -202,7 +203,7 @@ def main():
     # Step 3: download results back to local ./results/
     print("\nDownloading results...")
     for entry in volume.listdir("/results", recursive=True):
-        local_path = pathlib.Path(".") / entry.path.lstrip("/")
+        local_path = project_root / entry.path.lstrip("/")
         local_path.parent.mkdir(parents=True, exist_ok=True)
         if not entry.is_dir:
             with local_path.open("wb") as f:

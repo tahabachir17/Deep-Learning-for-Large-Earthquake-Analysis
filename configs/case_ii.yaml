@@ -7,3 +7,6 @@ epochs: 200
 learning_rate: 0.01
 decay_rate: 0.9
 seed: 2
+x_path: data/GNSS_M7S_181/xdata.npy
+y_path: data/GNSS_M7S_181/ydata.npy
+output_dir: reports/case_ii
